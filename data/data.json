@@ -23,6 +23,12 @@
       "password": "helloworld",
       "score": 43,
       "id": 5
+    },
+    {
+      "username": "newuser",
+      "password": "newuser",
+      "score": 10,
+      "id": 7
     }
   ]
 }
